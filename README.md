@@ -1,4 +1,6 @@
-### Hi there 👋
+## Hellooooooooooo 👋
+
+![alt text](image.jpg)
 
 
 - 🔭 I'm currently working as a Software Developer based in Manila, Philippines 
@@ -9,3 +11,5 @@
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love Anime!
 
+
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
